@@ -3,3 +3,5 @@ keras
 matplotlib
 opencv_python_headless
 ipykernel
+tensorflow
+streamlit
