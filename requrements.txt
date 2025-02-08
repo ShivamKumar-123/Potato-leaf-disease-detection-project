@@ -1,6 +1,0 @@
-tensorflow == 2.18.0
-keras
-matplotlib
-opencv_python_headless
-ipykernel
-streamlit
